@@ -60,7 +60,11 @@
             <artifactId>guava</artifactId>
             <version>18.0</version>
         </dependency>
-
+        <dependency>
+            <groupId>org.apache.avro</groupId>
+            <artifactId>avro</artifactId>
+            <version>1.10.2</version>
+        </dependency>
         <!-- Test dependencies from here-->
         <dependency>
             <groupId>org.hamcrest</groupId>
